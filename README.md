@@ -1,71 +1,86 @@
-<h1 align="center">Hey there 👋, I'm KevinnRaa</h1>
-
+<!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID_HERE?v=4" width="150" style="border-radius: 50%;" alt="KevinnRaa's profile picture"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=F7C51D&center=true&vCenter=true&width=700&height=50&lines=%7C%7C+Kevin+Khemra+%7C%7C;Cyber+Security+%26+Full+Stack+Developer;Hacking+is+an+Art!;Break+It%2C+Fix+It%2C+Own+It!;Exploring+Deep+Web+%7C+AI+%7C+Automation...">
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFE7&center=true&vCenter=true&width=435&lines=Cybersecurity+Lover;Telegram+Bot+Builder;Always+Learning;Welcome+to+my+Hub!" alt="Typing SVG" />
-</h3>
-
----
-
-## 💼 About Me
-
-> From Cambodia 🇰🇭 | Passionate about building cool bots, tools, and testing security systems.  
-> Focused on making unique tools for Telegram, ethical hacking, and smart development.
-
----
-
-## ⚙️ Tech Stack
-
+<!-- Profile Image with Pop-up Effect -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" />
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.tiktok.com/@raatechofficial?_t=ZS-8ucGHt5Nr16&_r=1"><img src="https://img.shields.io/badge/TikTok-RaaTechOfficial-black?style=for-the-badge&logo=tiktok" /></a>
-  <a href="https://t.me/hackisreal007"><img src="https://img.shields.io/badge/Telegram-Channel-0088cc?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://t.me/Nosecurity001"><img src="https://img.shields.io/badge/Telegram-Group-0088cc?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://github.com/KevinnRaa"><img src="https://img.shields.io/badge/GitHub-Profile-171515?style=for-the-badge&logo=github" /></a>
-  <a href="https://raatech.net"><img src="https://img.shields.io/badge/My+Website-RaaTech-blue?style=for-the-badge&logo=google-chrome" /></a>
-</p>
-
----
-
-## 💖 Support My Work
-
-If you love what I do and want to support me, you can donate directly using ABA Bank 👇
-
-<p align="center">
-  <a href="https://pay.ababank.com/LFGFhcpGGJzykyt66">
-    <img src="https://img.shields.io/badge/Donate%20via%20ABA-Support%20Now-28a745?style=for-the-badge&logo=buymeacoffee" />
+  <a href="https://github.com/KevinnRaa">
+    <img src="https://github.com/KevinnRaa.png" width="180" height="180" style="border-radius:50%; box-shadow: 0px 0px 15px cyan; transition: 0.3s;">
   </a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
+<!-- About Me with Animated Text -->
+<h2 align="center" style="color: #ffdd00; text-shadow: 2px 2px 5px black;">👨‍💻 About Me</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinnRaa&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinnRaa&theme=tokyonight" width="49%" />
+⚡ **Professional Hacker | Full Stack Developer | Cyber Security Enthusiast**<br>
+🚀 Expert in **Penetration Testing, Web Development, and AI Integration**<br>
+🌍 From Cambodia | **Deep Web Explorer | Ethical Hacking**<br>
+🎯 Focused on **Security, Automation, and Innovation**.<br>
+🖥️ **Hacking is an Art! Break it, Fix it, Own it!** ⚔️
 </p>
 
 ---
 
-## ⚡ Quote of the Day
-
-> "Hustle in silence. Let your tools make the noise. 💻⚡"
+<!-- Social Media Links -->
+<h2 align="center" style="color: cyan;">🌍 Connect With Me</h2>
+<p align="center">
+  <a href="https://github.com/KevinnRaa"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://t.me/hackisreal007"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white"></a>
+  <a href="https://www.tiktok.com/@raatechofficial?_t=ZS-8ucGHt5Nr16&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"></a>
+  <a href="https://t.me/Nosecurity001"><img src="https://img.shields.io/badge/Telegram Group-%23FF0080.svg?&style=for-the-badge&logo=Telegram&logoColor=white"></a>
+</p>
 
 ---
 
+<!-- GitHub Stats -->
+<h2 align="center" style="color: lime;">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinnRaa&show_icons=true&theme=tokyonight&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinnRaa&theme=tokyonight&hide_border=false" width="48%">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinnRaa&theme=tokyonight" width="98%">
+</p>
+
+---
+
+<!-- Most Used Languages (Expanded with More Languages) -->
+<h2 align="center" style="color: orange;">🖥️ Most Used Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinnRaa&layout=compact&theme=tokyonight&langs_count=10" width="48%">
+</p>
+
+---
+
+<!-- Achievements -->
+<h2 align="center" style="color: red;">🏆 Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinnRaa&theme=tokyonight&no-bg=true&margin-w=5" width="85%">
+</p>
+
+---
+
+<!-- GitHub Contributions -->
+<h2 align="center" style="color: cyan;">🌟 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinnRaa&theme=tokyonight" width="98%">
+</p>
+
+---
+
+<!-- Full Tech Stack -->
+<h2 align="center" style="color: violet;">🚀 Full Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,php,html,css,js,linux,git,github,vscode,wordpress,docker,nginx,apache,nodejs,react,mysql,mongodb,redis,aws,azure,flutter,androidstudio,figma" />
+</p>
+
+---
+
+<!-- Support Me -->
+<h2 align="center" style="color: gold;">💖 Support Me</h2>
+<p align="center">
+  <a href="https://pay.ababank.com/LFGFhcpGGJzykyt66"><img src="https://img.shields.io/badge/Support%20Me%20on%20ABA-%23FFDD00.svg?&style=for-the-badge&logo=money&logoColor=black"></a>
+</p>
