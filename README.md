@@ -12,7 +12,7 @@
 
 ---
 
-<!-- New About Me with Emoji Enhancements -->
+<!-- 🚀 About Me -->
 <h2 align="center" style="color:#00FFFF;text-shadow:2px 2px 5px black;">🚀 About Me</h2>
 <p align="center">
 ⚡ I'm <strong>Kevin Khemra</strong>, a passionate <strong>Ethical Hacker & Full Stack Developer</strong> from Cambodia 🌏.<br>
@@ -24,7 +24,15 @@
 
 ---
 
-<!-- Social Media with Improved Icons -->
+<!-- 🌟 Quote Banner -->
+<h2 align="center" style="color:#00FFFF;">🌟 Inspiration</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<!-- 🌐 Social Media -->
 <h2 align="center" style="color:#00FFFF;">🌐 Let's Connect</h2>
 <p align="center">
   <a href="https://github.com/KevinnRaa"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
@@ -35,20 +43,32 @@
 
 ---
 
-<!-- Enhanced GitHub Stats -->
+<!-- 📌 Highlight Projects -->
+<h2 align="center" style="color:#00FFFF;">📌 Pinned Projects</h2>
+<p align="center">
+  <a href="https://github.com/KevinnRaa/Poor5G">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinnRaa&repo=Poor5G&theme=radical" />
+  </a>
+  <a href="https://github.com/KevinnRaa/WiFiPhishing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KevinnRaa&repo=WiFiPhishing&theme=radical" />
+  </a>
+</p>
+
+---
+
+<!-- 📊 GitHub Stats -->
 <h2 align="center" style="color:#00FFFF;">📊 GitHub Analytics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KevinnRaa&theme=radical&show_icons=true&hide_border=true" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KevinnRaa&theme=radical&hide_border=true" width="49%"/>
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinnRaa&theme=radical" width="100%"/>
 </p>
 
 ---
 
-<!-- Updated Languages & Tools -->
+<!-- 🧰 Tech Stack -->
 <h2 align="center" style="color:#00FFFF;">🧰 Tech Stack & Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,php,html,css,js,typescript,react,nodejs,flutter,linux,git,github,vscode,docker,mysql,mongodb,redis,aws,azure,figma,photoshop,ai" />
@@ -56,7 +76,7 @@
 
 ---
 
-<!-- GitHub Trophies & Achievements -->
+<!-- 🏆 Trophies -->
 <h2 align="center" style="color:#00FFFF;">🏆 My GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KevinnRaa&theme=radical&no-bg=true&margin-w=10" width="95%">
@@ -64,14 +84,39 @@
 
 ---
 
-<!-- GitHub Activity Graph -->
+<!-- 📈 Activity Graph -->
 <h2 align="center" style="color:#00FFFF;">⚡ Activity Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinnRaa&theme=redical" width="100%"/>
 </p>
 
 ---
-<!-- Updated Support Me -->
+
+<!-- ⭐ Star History -->
+<h2 align="center" style="color:#00FFFF;">⭐ Star History</h2>
+<p align="center">
+  <img src="https://api.star-history.com/svg?repos=KevinnRaa/Poor5G&type=Date" width="90%" />
+</p>
+
+---
+
+<!-- 🎧 Spotify Now Playing -->
+<h2 align="center" style="color:#00FFFF;">🎧 Now Playing</h2>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xbtv7oi6uyojobg3xg7l6s5i7i&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=false" />
+</p>
+
+---
+
+<!-- 👁️ Visitor Count -->
+<h2 align="center" style="color:#00FFFF;">👁️ Visitors Count</h2>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/KevinnRaa/count.svg" />
+</p>
+
+---
+
+<!-- 💖 Support -->
 <h2 align="center" style="color:#00FFFF;">💖 Support My Work</h2>
 <p align="center">
   <a href="https://pay.ababank.com/LFGFhcpGGJzykyt66"><img src="https://img.shields.io/badge/Donate-ABA%20Bank-yellow?style=for-the-badge&logo=paypal"></a>
@@ -79,7 +124,7 @@
 
 ---
 
-<!-- New Footer -->
+<!-- Footer -->
 <p align="center" style="color:gray;font-size:12px;">
   © 2025 | Made with ❤️ by Kevin Khemra
 </p>
