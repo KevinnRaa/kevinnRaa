@@ -92,19 +92,10 @@
 
 ---
 
-<!-- ⭐ Star History -->
-<h2 align="center" style="color:#00FFFF;">⭐ Star History</h2>
-<p align="center">
-  <img src="https://api.star-history.com/svg?repos=KevinnRaa/Poor5G&type=Date" width="90%" />
-</p>
 
----
 
-<!-- 🎧 Spotify Now Playing -->
-<h2 align="center" style="color:#00FFFF;">🎧 Now Playing</h2>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xbtv7oi6uyojobg3xg7l6s5i7i&cover_image=true&theme=novatorem&bar_color=00ffff&bar_color_cover=false" />
-</p>
+
+
 
 ---
 
